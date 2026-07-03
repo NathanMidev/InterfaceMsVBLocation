@@ -1,0 +1,15 @@
+c:\users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\bin\Debug\GestLocationVoiture.exe.config
+c:\users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\bin\Debug\GestLocationVoiture.exe
+c:\users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\bin\Debug\GestLocationVoiture.pdb
+c:\users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\bin\Debug\GestLocationVoiture.xml
+c:\users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\obj\Debug\GestLocationVoiture.Client.resources
+c:\users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\obj\Debug\GestLocationVoiture.Voiture.resources
+c:\users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\obj\Debug\GestLocationVoiture.Resources.resources
+c:\users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\obj\Debug\GestLocationVoiture.vbproj.GenerateResource.Cache
+c:\users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\obj\Debug\GestLocationVoiture.exe
+c:\users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\obj\Debug\GestLocationVoiture.xml
+c:\users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\obj\Debug\GestLocationVoiture.pdb
+C:\Users\rsuza\Documents\Visual Studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\obj\Debug\GestLocationVoiture.MenuPrincipal.resources
+C:\Users\rsuza\Documents\Visual Studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\obj\Debug\GestLocationVoiture.Marque.resources
+C:\Users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\obj\Debug\GestLocationVoiture.Authentification.resources
+C:\Users\rsuza\documents\visual studio 2013\Projects\GestLocationVoiture\GestLocationVoiture\obj\Debug\GestLocationVoiture.Locations.resources
